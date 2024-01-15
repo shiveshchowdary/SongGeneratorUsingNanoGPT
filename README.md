@@ -26,3 +26,6 @@ The training data is sourced from the Kaggle Spotify Songs dataset. Ensure you h
 
 5. Generate songs using the trained model:
 
+## Demo Images
+
+![Application Preview](images/demo.png)
