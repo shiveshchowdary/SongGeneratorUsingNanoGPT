@@ -18,10 +18,6 @@ The training data is sourced from the Kaggle Spotify Songs dataset. Ensure you h
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/your-username/song-generation-model.git
-    ```
-
 2. Install dependencies:
 
 3. Download and prepare the dataset. Include instructions on how to do this.
