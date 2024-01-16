@@ -12,8 +12,7 @@ This project implements a character-level language model for generating songs. T
 
 ## Dataset
 
-The training data is sourced from the Kaggle Spotify Songs dataset. Ensure you have the dataset downloaded or provide instructions on obtaining it.
-
+The training data is sourced from the Kaggle Spotify Songs dataset. Ensure you have the dataset downloaded.
 ## Getting Started
 
 1. Clone the repository:
